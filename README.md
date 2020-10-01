@@ -6,6 +6,7 @@
  - Scylla: https://scylla.sh/
  - Dcode: https://www.dcode.fr/
  - Boxentriq: https://www.boxentriq.com/code-breaking/cipher-identifier
+ - LibcDB (pwn libc lookups): https://libc.blukat.me/
 
 ## Training Grounds
  - HackTheBox (free): https://hackthebox.eu/
