@@ -41,3 +41,9 @@
  - Hackerone (Bounty Platform): https://www.hackerone.com/
  - Bugcrowd (Bounty Platform): http://bugcrowd.com/
  - Disclose.io (Bounty Platform): https://disclose.io/
+
+## Exploits
+ - Exploit-DB (Recent CVEs and Exploits): https://www.exploit-db.com/ 
+ - Mitre-CVE (CVEs): https://cve.mitre.org/
+ - Attacker-KB (CVE Explanation): https://attackerkb.com/
+ - Server Side Template Injection Blog (SSTI Blog OnSecurity): https://www.onsecurity.co.uk/blog/server-side-template-injection-with-jinja2/
