@@ -25,6 +25,7 @@
  - LiveOverflow (Youtube): https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
  - Stacksmashing / Ghidra Ninja (Rev eng.): https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
  - STÖK (Bug Bounty): https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+ - Ceos3c (Tutorials): https://www.youtube.com/c/ceos3ctutorials
 
 ## Courses
  - Nightmare (pwn): https://guyinatuxedo.github.io/
@@ -35,3 +36,8 @@
  - TheNewBoston (all rounder - Inactive): https://www.youtube.com/user/thenewboston
  - Codecademy: https://www.codecademy.com/
  - Jabrils (Machine learning): https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
+
+## Bug Bounty Resources
+ - Hackerone (Bounty Platform): https://www.hackerone.com/
+ - Bugcrowd (Bounty Platform): http://bugcrowd.com/
+ - Disclose.io (Bounty Platform): https://disclose.io/
