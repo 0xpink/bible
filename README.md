@@ -47,3 +47,12 @@
  - Mitre-CVE (CVEs): https://cve.mitre.org/
  - Attacker-KB (CVE Explanation): https://attackerkb.com/
  - Server Side Template Injection Blog (SSTI Blog OnSecurity): https://www.onsecurity.co.uk/blog/server-side-template-injection-with-jinja2/
+
+## Tools - Recon
+ - NMAP (Network Mapper): https://nmap.org/
+ - RustScan (Network Mapper): https://github.com/RustScan/RustScan
+ - Gobuster (CLI Directory Brute Force): https://github.com/OJ/gobuster
+ - DirBuster (GUI Directory Brute Force): https://tools.kali.org/web-applications/dirbuster
+ - SMBMap (SMB Enumeration): https://github.com/ShawnDEvans/smbmap
+ - Sublist3r (Sub-Domain Enumeration): https://github.com/aboul3la/Sublist3r 
+ - Nikto (Web Enumeration): https://github.com/sullo/nikto
