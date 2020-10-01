@@ -19,3 +19,7 @@
  - optional (THM - inactive): https://www.youtube.com/user/toxicshadowprogram
  - Nahamsec (Bug Bounty): https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 
+## Courses
+ - Nightmare (pwn): https://guyinatuxedo.github.io/
+ - TheCyberMentor Network Pentesting: https://www.youtube.com/watch?v=WnN6dbos5u8
+ - HTB Prolabs | Dante: https://www.hackthebox.eu/press/prolab-dante
