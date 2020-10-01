@@ -6,6 +6,7 @@
  - Scylla: https://scylla.sh/
  - Dcode: https://www.dcode.fr/
  - Boxentriq: https://www.boxentriq.com/code-breaking/cipher-identifier
+ - LibcDB (pwn libc lookups): https://libc.blukat.me/
 
 ## Training Grounds
  - HackTheBox (free): https://hackthebox.eu/
@@ -17,7 +18,9 @@
  - Pentesterlabs(paid) : https://pentesterlab.com/
  - EchoCTF (free): https://echoctf.red/
  - Proving Grouds (free/paid): https://www.offensive-security.com/labs/individual/
-
+ - Root-me (free): https://www.root-me.org/
+ - ServmorSec (free/paid): https://servmorsec.co.uk/
+ 
 ## Content Creators
  - John Hammond (YouTube): https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
  - IppSec (HTB YouTube): https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
@@ -28,6 +31,7 @@
  - Stacksmashing / Ghidra Ninja (Rev eng.): https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
  - STÖK (Bug Bounty): https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
  - Ceos3c (Tutorials): https://www.youtube.com/c/ceos3ctutorials
+ - kegn (HTB): https://www.youtube.com/channel/UCYH5zGyYYwg7tkpSx5pAtkQ
 
 ## Courses
  - Nightmare (pwn): https://guyinatuxedo.github.io/
@@ -49,6 +53,7 @@
  - Mitre-CVE (CVEs): https://cve.mitre.org/
  - Attacker-KB (CVE Explanation): https://attackerkb.com/
  - Server Side Template Injection Blog (SSTI Blog OnSecurity): https://www.onsecurity.co.uk/blog/server-side-template-injection-with-jinja2/
+ - Zerologon (CVE + PoC): https://github.com/risksense/zerologon
 
 ## Tools - Recon
  - NMAP (Network Mapper): https://nmap.org/
