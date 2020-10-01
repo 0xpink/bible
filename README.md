@@ -20,12 +20,18 @@
  - John Hammond (YouTube): https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
  - IppSec (HTB YouTube): https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
  - TheCyberMentor (Courses and THM): https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
- - optional (THM - inactive): https://www.youtube.com/user/toxicshadowprogram
+ - optional (THM - inactive): https://www.youtube.com/optionalctf
  - Nahamsec (Bug Bounty): https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
  - LiveOverflow (Youtube): https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
  - Stacksmashing / Ghidra Ninja (Rev eng.): https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
+ - STÖK (Bug Bounty): https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
 
 ## Courses
  - Nightmare (pwn): https://guyinatuxedo.github.io/
  - TheCyberMentor Network Pentesting: https://www.youtube.com/watch?v=WnN6dbos5u8
  - HTB Prolabs | Dante: https://www.hackthebox.eu/press/prolab-dante
+
+## Programming
+ - TheNewBoston (all rounder - Inactive): https://www.youtube.com/user/thenewboston
+ - Codecademy: https://www.codecademy.com/
+ - Jabrils (Machine learning): https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
