@@ -4,6 +4,8 @@
  - CyberChef: https://gchq.github.io/CyberChef/
  - Shodan: https://shodan.io/
  - Scylla: https://scylla.sh/
+ - Dcode: https://www.dcode.fr/
+ - Boxentriq: https://www.boxentriq.com/code-breaking/cipher-identifier
 
 ## Training Grounds
  - HackTheBox (free): https://hackthebox.eu/
