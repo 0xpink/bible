@@ -53,6 +53,7 @@
  - Mitre-CVE (CVEs): https://cve.mitre.org/
  - Attacker-KB (CVE Explanation): https://attackerkb.com/
  - Server Side Template Injection Blog (SSTI Blog OnSecurity): https://www.onsecurity.co.uk/blog/server-side-template-injection-with-jinja2/
+ - Zerologon (CVE + PoC): https://github.com/risksense/zerologon
 
 ## Tools - Recon
  - NMAP (Network Mapper): https://nmap.org/
