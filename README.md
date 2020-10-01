@@ -20,6 +20,7 @@
  - Proving Grouds (free/paid): https://www.offensive-security.com/labs/individual/
  - Root-me (free): https://www.root-me.org/
  - ServmorSec (free/paid): https://servmorsec.co.uk/
+ - Virtual Hacking Labs (paid): https://www.virtualhackinglabs.com/
  
 ## Content Creators
  - John Hammond (YouTube): https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
@@ -32,16 +33,20 @@
  - STÖK (Bug Bounty): https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
  - Ceos3c (Tutorials): https://www.youtube.com/c/ceos3ctutorials
  - kegn (HTB): https://www.youtube.com/channel/UCYH5zGyYYwg7tkpSx5pAtkQ
+ - AshF0x (pwn and THM): https://www.twitch.tv/ash_f0x
 
 ## Courses
  - Nightmare (pwn): https://guyinatuxedo.github.io/
  - TheCyberMentor Network Pentesting: https://www.youtube.com/watch?v=WnN6dbos5u8
  - HTB Prolabs | Dante: https://www.hackthebox.eu/press/prolab-dante
+ - ROP Emporium (pwn): https://ropemporium.com/
 
 ## Programming
  - TheNewBoston (all rounder - Inactive): https://www.youtube.com/user/thenewboston
  - Codecademy: https://www.codecademy.com/
  - Jabrils (Machine learning): https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
+ - Exercism: https://exercism.io/
+ - Jacob Sorber (C programming and data structures): https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ
 
 ## Bug Bounty Resources
  - Hackerone (Bounty Platform): https://www.hackerone.com/
